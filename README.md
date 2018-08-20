@@ -1,6 +1,6 @@
 # KumpulanFbbrute
 
-# WEB
+# Titorial Web
 www.senitopeng.xyz
 
 <img src="Image/Senitopeng.png"/>
