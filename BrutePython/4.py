@@ -57,9 +57,8 @@ print "| Akun Fb  : Deduck/Oh Oh Hekell II                  |"
 print "| version  : 0.1                                     |"
 print "------------------------------------------------------"+E
 
-target = raw_input('Username or Id Fb: ')
-wordlist = raw_input('[+] Password.txt : ')
-
+target = raw_input('[+] Username or Id Target : ')
+wordlist = raw_input('[+] Masukkan password.txt : ')
 
 while True:
     print """
